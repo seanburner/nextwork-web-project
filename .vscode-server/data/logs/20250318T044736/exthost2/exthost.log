@@ -16,3 +16,5 @@
 [2025-03-18 04:48:51.287] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/ms-vscode.js-debug/src/extension.js
 [2025-03-18 04:52:42.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
 [2025-03-18 04:52:42.767] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ec2-user/.vscode-server/bin/054a9295330880ed74ceaedda236253b4f39a335/extensions/html-language-features/client/dist/node/htmlClientMain
+[2025-03-19 19:21:12.024] [exthost] [info] extension host terminating: renderer disconnected for too long (1)
+[2025-03-19 19:21:13.030] [exthost] [info] exiting with code 0
